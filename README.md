@@ -59,4 +59,4 @@ notebooklm source add - --type text --title "notes.md" -n NOTEBOOK_ID --json < /
 
 ## Version
 
-Initial public version: `1.0.0`.
+Current public version: `1.0.1`.

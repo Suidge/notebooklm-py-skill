@@ -1,6 +1,8 @@
 ---
 name: notebooklm-py-skill
 description: "Manage Google NotebookLM notebooks, sources, chats, artifacts, and exports through the notebooklm-py CLI with safe workflows."
+homepage: https://github.com/Suidge/notebooklm-py-skill
+license: MIT
 metadata:
   openclaw: {"skillKey": "notebooklm-py-skill", "emoji": "📓"}
 ---
