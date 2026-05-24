@@ -1,4 +1,4 @@
-# notebooklm-py Skill
+# notebooklm-py-skill
 
 OpenClaw skill for operating Google NotebookLM through the `notebooklm-py` CLI.
 

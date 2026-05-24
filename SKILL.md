@@ -1,11 +1,11 @@
 ---
-name: notebooklm-py
+name: notebooklm-py-skill
 description: "Manage Google NotebookLM notebooks, sources, chats, artifacts, and exports through the notebooklm-py CLI with safe workflows."
 metadata:
-  openclaw: {"skillKey": "notebooklm-py", "emoji": "📓"}
+  openclaw: {"skillKey": "notebooklm-py-skill", "emoji": "📓"}
 ---
 
-# notebooklm-py
+# notebooklm-py-skill
 
 Use this skill when the user asks to operate Google NotebookLM through the local `notebooklm` CLI: notebooks, sources, chat, research, notes, sharing, artifacts, or exports.
 
